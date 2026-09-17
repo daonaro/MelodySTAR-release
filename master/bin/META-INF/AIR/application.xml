@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/33.0">
+  <id>MelodyStar</id>
+  <versionNumber>1.4.3</versionNumber>
+  <filename>MelodyStar</filename>
+  <name>Melody STAR</name>
+  <initialWindow>
+    <title>Melody STAR</title>
+    <content>MelodyStar.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>false</transparent>
+    <renderMode>direct</renderMode>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+    <!--<requestedDisplayResolution>high</requestedDisplayResolution>-->
+  </initialWindow>
+  <supportedProfiles>extendedDesktop</supportedProfiles>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+
+	Must be define.......In extension.xml <id>....</id>
+	<extensions>
+		<extensionID></extensionID>
+	</extensions>
+	-->
+  <versionLabel>1.4.3</versionLabel>
+  <supportedLanguages>ko</supportedLanguages>
+  <icon>
+    <image16x16>icons/icon16.png</image16x16>
+    <image32x32>icons/icon32.png</image32x32>
+    <image48x48>icons/icon48.png</image48x48>
+    <image72x72>icons/icon72.png</image72x72>
+    <image128x128>icons/icon128.png</image128x128>
+  </icon>
+  <android>
+    <manifestAdditions><![CDATA[<manifest android:installLocation="auto" xmlns:android="http://schemas.android.com/apk/res/android" />]]></manifestAdditions>
+  </android>
+  <extensions>
+    <extensionID>kr.tav.tme.TMidiExtension</extensionID>
+  </extensions>
+</application>

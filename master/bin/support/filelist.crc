@@ -1,0 +1,75 @@
+43BEF147	./Adobe AIR\Versions\1.0\Adobe AIR.dll
+6122EA5A	./Adobe AIR\Versions\1.0\Resources\Adobe AIR.vch
+FFFFFFFF	./Adobe AIR\Versions\1.0\Resources\adobecp.vch
+B6E04699	./Adobe AIR\Versions\1.0\Resources\CaptiveAppEntry.exe
+CD977836	./Adobe AIR\Versions\1.0\Resources\NPSWF32.dll
+9E32748B	./Adobe AIR\Versions\1.0\Resources\WebKit\LGPL License.txt
+21727753	./Adobe AIR\Versions\1.0\Resources\WebKit\Notice WebKit.txt
+FC2AE016	./Adobe AIR\Versions\1.0\Resources\WebKit.dll
+C1480B14	./data\apply_pip.bat
+E7BFF95C	./data\EQ.dip
+C279C131	./data\EQ.dix
+B07189A5	./data\GT.dip
+EA9AF856	./data\GT.dix
+112F02F2	./data\LM.dip
+7248B0EE	./data\LM.dix
+C3D39F0E	./data\MFV.dll
+8427A29D	./data\PQ.dip
+B62DD1CB	./data\PQ.dix
+FD5690AD	./data\prelists.xml
+D7B3EF83	./data\rhythms\D1-1-12.msd
+2316CA2B	./data\rhythms\D1-1-60.msd
+4AB8790B	./data\rhythms\D1-2-12.msd
+629BE4B3	./data\rhythms\D1-2-60.msd
+AD27C1CB	./data\rhythms\D1-3-12.msd
+F0BC71A0	./data\rhythms\D1-3-60.msd
+1BC191E7	./data\rhythms\D1-4-12.msd
+CBE73AB5	./data\rhythms\D1-4-60.msd
+33594942	./data\rhythms\D1-5-12.msd
+CB3FEA18	./data\rhythms\D1-5-60.msd
+49A7A075	./data\rhythms\D1-6-12.msd
+B755EFFB	./data\rhythms\D1-6-60.msd
+733BB6DE	./data\rhythms\D1-7-12.msd
+5312D742	./data\rhythms\D1-7-60.msd
+B962DC0D	./data\rhythms\D1-8-12.msd
+BB44EE76	./data\rhythms\D1-8-60.msd
+35A8432B	./data\rhythms\DIS_F12.msd
+E7AD6888	./data\rhythms\DIS_F60.msd
+CADB9EAB	./data\rhythms\E1-1.msd
+2C434D9F	./data\rhythms\E1-2.msd
+5D54BD1B	./data\rhythms\R_C12-1.msd
+47CC474C	./data\rhythms\R_C60-1.msd
+A8D28C5D	./data\rhythms\R_F12-2.msd
+40355148	./data\rhythms\R_F60-2.msd
+D2FCC26D	./data\S2.dip
+B13247DD	./data\S2.dix
+B90F4BAC	./data\sqlite3.dll
+CBC3D597	./data\SZ.dix
+59F2EDD5	./data\SZ.SZB
+196DFB22	./data\VOA.dll
+7EE5036A	./icons\icon128.png
+E28B2E9A	./icons\icon16.png
+934FE376	./icons\icon32.png
+BE487FF4	./icons\icon48.png
+04122593	./icons\icon72.png
+01F3752D	./icons\MelodyStar.ico
+3278E14D	./MelodyStar.exe
+D21EBC70	./MelodyStar.swf
+F81CF5A8	./META-INF\AIR\application.xml
+B4666AF1	./META-INF\AIR\extensions\kr.tav.tme.TMidiExtension\catalog.xml
+E544AC12	./META-INF\AIR\extensions\kr.tav.tme.TMidiExtension\library.swf
+8505B631	./META-INF\AIR\extensions\kr.tav.tme.TMidiExtension\META-INF\ANE\extension.xml
+E544AC12	./META-INF\AIR\extensions\kr.tav.tme.TMidiExtension\META-INF\ANE\Windows-x86\library.swf
+ABC14B5E	./META-INF\AIR\extensions\kr.tav.tme.TMidiExtension\META-INF\ANE\Windows-x86\TMidiExtension.dll
+354DEC76	./META-INF\AIR\hash
+6652A66E	./META-INF\signatures.xml
+65A1C14E	./splash.gif
+06830DC7	./splash.hta
+24F03EEE	./support\7za.exe
+AC1ADD9B	./support\checkCRC.exe
+70C36856	./support\checkFileCRC.bat
+B73814E5	./support\customized_init.sqlite
+6019D9F2	./support\favorites_init.sqlite
+B63634C3	./support\launcher.exe
+7035C4AA	./support\pip.exe
+D1AEBAA3	./support\songs_init.sqlite

@@ -1,0 +1,14 @@
+<extension xmlns="http://ns.adobe.com/air/extension/14.0">
+  <id>kr.tav.tme.TMidiExtension</id>
+  <versionNumber>1.0.0</versionNumber>
+  <platforms>
+    <platform name="Windows-x86">
+      <applicationDeployment>
+        <nativeLibrary>TMidiExtension.dll</nativeLibrary> 
+ <!--       <nativeLibrary>TSFDll.dll</nativeLibrary> -->
+        <initializer>ExtInitializer</initializer>
+        <finalizer>ExtFinalizer</finalizer>
+      </applicationDeployment>
+    </platform>
+  </platforms>
+</extension>
